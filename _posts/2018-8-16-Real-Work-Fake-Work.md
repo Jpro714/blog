@@ -5,7 +5,7 @@ title: Real Work/Fake Work
 
 Business’s have 2 constraints they need to remove to be successful, the supply constraint and the demand constraint. For Tesla producing the model 3 in sufficient numbers was a supply constraint they needed to remove. In the early days of a startup the real work will almost always be removing the demand constraint, ie sales and building product.
 
-So looking at this we can usually say a startup that early on spends too much time working on increasing supply of their product is probably doing something wrong. Although they might be “working” in a certain sense that the state of the world is changing, what they’re doing isn’t increasing the chance their startup is going to be successful. They’re doing fake work.
+So looking at this we can usually say a startup that early on spends too much time working on increasing supply of their product is probably doing something wrong. Although they might be “working” in the sense that the state of the world is changing, what they’re doing isn’t increasing the chance their startup is going to be successful. They’re doing fake work.
 
 Fake work is working on things that aren’t actually constraints to your success. Like we mentioned a simple example would be a startup working too much on increasing supply which is almost certainly the wrong macro constraint to work on. Think a tech startup worrying about or designing an architecture for how to serve 10,000,000 concurrent users when they don’t have 10. Or a physical product startup thinking about how to scale their unit production to similar numbers.
 
